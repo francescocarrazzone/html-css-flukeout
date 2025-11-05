@@ -1,3 +1,3 @@
 # Fine esercizio
 
-![Anteprima](screenshot-css.png)
+![Anteprima](./img/screenshot-css.png)
